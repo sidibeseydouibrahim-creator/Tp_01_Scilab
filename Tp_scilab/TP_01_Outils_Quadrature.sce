@@ -1,5 +1,9 @@
 // Methodes numeriques 2 TP1 routines du CM1.
 // Ce fichier contient les methodes; l'analyse se fait dans un autre script.
+// Membres du groupe :
+// - SIDIBE Seydou Ibrahim (20240789)
+// - MOUNKORO Kassoum Souleymane (20240860)
+// - MARIKO Zoulcarnain (20240997)
 
 function q = trapezes(t, y)
     n = length(t) - 1;
